@@ -10,7 +10,7 @@ export class Home extends Component {
         return (
             <>
                 <Navbar />
-                Home
+                Home Test
                 <Footer />
             </>
         )
